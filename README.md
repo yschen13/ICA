@@ -5,7 +5,7 @@ Contains scripts for both real-valued ICA and complex-valued ICA
 ![Summary](./ICA_summary.png)
 
 ### ICA formulation and assumptions for algorithms
-![Report](./ComplexICA.pdf)
+[[Note](./ComplexICA.pdf)]
 
 ### Numerical test
 * Test.m: test the performance of ACMNsym.m on synthetic datasets with circular or non-circular sources
